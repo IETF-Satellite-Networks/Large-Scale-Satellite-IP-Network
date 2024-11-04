@@ -1,11 +1,11 @@
 # Large Scale Satellite IP Networks Side meeting in IETF 121
 
 ## Time: Thursday (Nov 7) , 90min
-   - UTC 17:00 - 19:00
-   - CET (UTC+1) 18:00 - 20:00 - France/Germany/Prague
-   - CST (UTC+8) 01:00 - 03:00 – Beijing/Singapore (Nov 7)
-   - EST (UTC-5) 12:00-14:00
-   - PST (UTC-8) 09:00-11:00
+   - UTC 17:00 - 18:30
+   - CET (UTC+1) 18:00 - 19:30 - France/Germany/Prague
+   - CST (UTC+8) 01:00 - 02:30 – Beijing/Singapore (Nov 8)
+   - EST (UTC-5) 12:00-13:30
+   - PST (UTC-8) 09:00-10:30
 
 Information also available on side meeting wiki: https://trac.ietf.org/trac/ietf/meeting/wiki/121sidemeetings
 
