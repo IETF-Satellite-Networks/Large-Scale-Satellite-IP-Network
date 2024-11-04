@@ -26,9 +26,9 @@ https://github.com/IETF-Satellite-Networks/side-meeting-IETF121
 1.	Admin [5: 5/90] 
 2.	3GPP Satellite Use Cases (R19 & R20): Tianji Jiang (China Mobile) [15: 20/90] 
 3.	Stable Hierarchical Addressing and Routing for Operational Satellite Networks: Hewu Li/Yuanjie Li (Tsinghua University) [15 : 35/90]
-4.	Potential networking issues in large-scale satellite networks: Arashmid Akhavain(Huawei). [15: 50/90]
+4.	Potential challenges in Non Terrestrial Networks: Arashmid Akhavain(Huawei). [15: 50/90]
 5.	Energy-Efficient Temporal Connectivity over LEO Satellite Constellations: Daniel King(Lancaster University ). [15: 65/90]
-6.	Practice & Analysis: Starlink trial & analysis, Jianping Pan (University of Victoria):  [15: 80/90]
+6.	Routing in LEO Sat Nets — A case study on Starlink and OneWeb, Jianping Pan (University of Victoria):  [15: 80/90]
 7.	Discussion and next steps [10 : 90/90]
 
 Comments and suggestions are welcome. 
