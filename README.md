@@ -16,10 +16,10 @@ Information also available on side meeting wiki: https://trac.ietf.org/trac/ietf
 - https://ietf.webex.com/meet/sidemeetingietf1
 
 ## Link to slides
-https://github.com/IETF-Satellite-Networks/side-meeting-IETF121
+- https://github.com/IETF-Satellite-Networks/side-meeting-IETF121
 
 ## Purpose of the virtual side meeting:
--Discussing the use cases, problem space, requirements and potential architecture and solutions
+- Discussing the use cases, problem space, requirements and potential architecture and solutions
 - Collect feedback on the direction and interest in IETF routing area 
 
 ## Agenda
